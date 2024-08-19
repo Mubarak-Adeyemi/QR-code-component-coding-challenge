@@ -1,0 +1,41 @@
+/* Feel free to remove these styles or customise in your own stylesheet 👍 */
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #d6e1f0;
+}
+.qr-code {
+  max-width: 350px;
+  width: 250px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.texts {
+  padding: 0 12px;
+}
+p {
+  font-size: 15px;
+  color: #9da1ab;
+}
+img {
+  width: 250px;
+  border-radius: 10px;
+}
+.qr-code a {
+  color: hsl(228, 45%, 44%);
+}
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
