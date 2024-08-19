@@ -10,7 +10,7 @@ body {
 }
 .qr-code {
   max-width: 350px;
-  width: 250px;
+  width: 300px;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -25,11 +25,11 @@ body {
   padding: 0 12px;
 }
 p {
-  font-size: 15px;
+  font-size: 18px;
   color: #9da1ab;
 }
 img {
-  width: 250px;
+  width: 100%;
   border-radius: 10px;
 }
 .qr-code a {
